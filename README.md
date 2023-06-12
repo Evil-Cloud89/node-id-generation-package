@@ -1,0 +1,1 @@
+Paczka mająca na celu pomoc i dodanie możliwości generowania losowych ID zawierających małe i duże litery oraz cyfry.  
